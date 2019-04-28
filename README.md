@@ -18,6 +18,7 @@ ISSN={},
 month={May},}".
 1. This code is freely available be used for research purposes.
 2. Please ask for permission if you are using for commercial applications to akhurshid@inf.ufrgs.br or jacobs@inf.ufrgs.br.
+3. THERE are THREE BRANCHES, DOWNLOAD ALL THE BRACNHES AND KEEP all three Bracnhes in a FOLDER with each Brach having ITS OWN FOLDER.
 
 HOW TO USE:
 1. Please look for folder EXtended functions and install the ksvdbox13 and ompbox10 packages. 
